@@ -1,0 +1,49 @@
+
+body{
+   background: khaki;
+    max-width: 100%;
+    margin: 20px;
+    padding: 20px;
+    overflow-x: hidden;
+    border: 5px solid blue;
+}
+
+header h1{
+    color: rgb(13, 47, 121);
+    padding: 3px 6px;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 9px;
+    letter-spacing: 4px;
+    text-align: center;
+ }
+h6{
+    letter-spacing: 1px;
+    font-size: 1.3em;
+    text-align: center;
+} 
+
+.banner img{
+  width: 100%
+}
+.container{
+    display: inline-block;  
+    justify-content: center;
+    background: pink;
+    align-items: center;
+    border: 3px solid;
+    width: 100%;
+    line-height: 1.2em;
+}
+main{
+    margin-left: 350px;
+}
+.notice{
+    background-color: #125c12;
+    color: #ffffff;
+    margin-left: 1%;
+    margin-right: 1%;
+    text-align: center;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
